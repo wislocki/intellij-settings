@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'ym-rtb'" />
+    <option name="defaultScopeName" value="Project 'ym-rtb'" />
+    <option name="SEARCH_SCOPE" value="Project 'ym-rtb'" />
+    <option name="FILE_MASK" value="*.java" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.scala</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
