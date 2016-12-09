@@ -3,10 +3,11 @@
     <property name="created">2016-12-02T14:35:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-02T14:39:59</property>
+    <property name="modified">2016-12-08T12:49:29</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
