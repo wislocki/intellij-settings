@@ -49,9 +49,7 @@
     <library name="jenkins-pipeline">
       <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/development/ym-jenkins-pipeline-common/src/jenkins-pipeline.gdsl" />
-      </SOURCES>
+      <SOURCES />
     </library>
   </component>
 </application>
