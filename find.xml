@@ -1,42 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,*.xml" />
-    <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scal</mask>
-      <mask>*.scala</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.javam</mask>
-      <mask>*.java</mask>
-      <mask>*.java,</mask>
-      <mask>*.java,*,op</mask>
-      <mask>*.java,*,o</mask>
-      <mask>*.java,*,xm</mask>
-      <mask>*.java,*,x</mask>
-      <mask>*.java,*,</mask>
-      <mask>*.java,*</mask>
-      <mask>*.java,*.</mask>
-      <mask>*.java,*.xml,</mask>
-      <mask>*.java,*.xml,*</mask>
-      <mask>*.java,*.xml,*.</mask>
-      <mask>*.java,*.xml,*.p</mask>
-      <mask>*.java,*.xml,*.pr</mask>
-      <mask>*.java,*.xml,*.proper</mask>
-      <mask>*.java,*.xml,*.propert</mask>
-      <mask>*.java,*.xml,*.properties</mask>
-      <mask>*.java,*.xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.mxml" />
   </component>
 </application>
